@@ -2,7 +2,7 @@
 
 A machine learning-based text classification model developed for the Artificial Intelligence Laboratory (CSE 3812) to automatically distinguish between legitimate communications ("ham") and spam.
 
-**Author:** F. Abrar
+**Author:** Fahim Abrar
 
 ## Overview
 
